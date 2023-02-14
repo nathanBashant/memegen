@@ -1,9 +1,3 @@
-// ToDo
-// [x] - get top 3 post in past 24hrs from r/animemes
-// [x] - check if post is posted
-// [x] - if not poseted then post @taewonsu
-// [x] - add post to posted_list
-
 // https://www.reddit.com/r/Animemes/top.json?limit=3 - {url, id, title, author}
 import { config } from "dotenv";
 
