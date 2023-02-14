@@ -76,7 +76,7 @@ export const reddit2insta = async (
     try {
       const publishResult = await ig.publish.photo({
         file: imageBuffer,
-        caption: `I be like\n.\n.\n.\n.\n.\n#${hashtags}`,
+        caption: `${animeme_to_post.title} \n.\n.\n.\n.\n.\n#${hashtags}`,
       });
 
       console.log(animeme.data.url);
