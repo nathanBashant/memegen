@@ -1,4 +1,4 @@
-# TAEWONSU
+# NBC
 
 a _customizable bot_ that takes **top memes** of the _day_ from `r/subreddit` and posts them on your [**instagram page**](https://www.instagram.com/taewonsu/)
 
